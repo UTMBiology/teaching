@@ -1,3 +1,3 @@
 # teaching
 
-Description
+Project description
